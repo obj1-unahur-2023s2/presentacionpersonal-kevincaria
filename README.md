@@ -1,38 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Kevin Caria
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+¡Hola! Soy **estudiante** de la tecnicatura universitaria **en programación** desde el 2021. Anteriormente, desde 2018, estuve cursando ingeniería eléctrica, también en UNAHUR. En 2021 y 2022 hice varios cursos sobre programación, enfocándome principalmente en el lado del backend utilizando Java y Spring.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Desde principios de 2022 trabajo como programador, donde estoy familiarizado con código en proyectos basados en Java/Quarkus, con un enfoque sólido en bases de datos relacionales. Específicamente, trabajo mucho con Oracle DB y PostgreSQL.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Estoy ansioso de seguir ampliando mi conocimiento con esta materia!!
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Les deseo un muy buen cuatrimestre para todos.
 
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+*Kevin*
